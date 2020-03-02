@@ -23,6 +23,8 @@ translation: Français translations/French.md
 
 # Course Main Title
 
+The interactive mode is available via [LInk](https://liascript.github.io/course/?https://raw.githubusercontent.com/ibieber/LiaScriptTest/master/README.md#1)
+
 This is your **course** initialization stub.
 
 Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
